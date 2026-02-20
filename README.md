@@ -4,7 +4,7 @@ A semantic conversation organizer built with **Next.js 14**, **TypeScript**, and
 
 ## Live Demo
 
-> Add your deployed URL here after deployment
+> chat-organizer-r62mdalmm-harsh-pathaks-projects.vercel.app
 
 ## Setup
 
